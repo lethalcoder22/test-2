@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  const API_URL = "http://localhost:5000/api";
+  const API_URL = "https://test-2-56bp.onrender.com/api";
 
   $("#register-form").submit(function (e) {
     e.preventDefault();
